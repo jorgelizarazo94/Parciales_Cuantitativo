@@ -6,5 +6,5 @@ Bienvenido al repositorio del curso de Análisis Cuantitativo. Este repositorio 
 ## Participantes:
 Jairo Alexander Astudillo Lagos - alexastudillo211@gmail.com 
 Jorge Eduardo Lizarazo Borrero - jorge.lizarazo.b@gmail.com
-Marly -apellido- - -correo-
+Marly Zuleny Ruiz Imbachi - marlyzulenyr@gmail.com
 Juan Ricardo Peña - Jr2005310@gmail.com
